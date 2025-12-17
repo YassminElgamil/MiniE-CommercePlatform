@@ -14,9 +14,7 @@
     <Folder Include="Controllers\" />
     <Folder Include="Middlewares\" />
     <Folder Include="DTOs\" />
-    <Folder Include="Repositories\" />
     <Folder Include="Data\" />
-    <Folder Include="UnitOfWorks\" />
   </ItemGroup>
 
 </Project>
